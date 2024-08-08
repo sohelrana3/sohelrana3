@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sohelrana3" />
 <h1 align="center">
-  Sohel Rana
+  
+  Hi👋I'm Sohel Rana
 <!--     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" /> -->
 </h1>
-
-<h3 align="center">Hi there 👋 I'm Mern Stack Developer</h3>
+<h3 align="center">A passionate Mern Stack Developer from Bangladesh</h3>
 <div align="center"> 
   <a href="#">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />

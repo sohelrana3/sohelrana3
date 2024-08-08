@@ -1,5 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sohelrana3" />
-## Hi there 👋 I'm Mern Stack Developer
+<h1 align="center">
+  Sohel Rana
+<!--     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" /> -->
+</h1>
+
+<h3 align="center">## Hi there 👋 I'm Mern Stack Developer</h3>
+
+<br/>
+
 
 <!--
 **sohelrana3/sohelrana3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
